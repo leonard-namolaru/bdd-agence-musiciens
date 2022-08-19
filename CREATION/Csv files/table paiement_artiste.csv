@@ -1,0 +1,3 @@
+paiement_id,contrat_id,paiement_date,paiement_montant_brut,paiement_honoraire_agence
+1,1,7/5/2022,614,184
+2,1,7/25/2022,1758,527
